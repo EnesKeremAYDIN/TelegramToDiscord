@@ -18,7 +18,7 @@ A Python-based bot that forwards messages from a Telegram chat to a Discord chan
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/TelegramToDiscord.git
+   git clone https://github.com/EnesKeremAYDIN/TelegramToDiscord.git
    cd TelegramToDiscord
    ```
 
