@@ -1,6 +1,6 @@
 # Telegram to Discord Bridge
 
-A Python-based bot that forwards messages from a Telegram chat to a Discord channel, enabling seamless communication between the two platforms.
+Python-based bot that forwards messages from a Telegram chat to a Discord channel, enabling seamless communication between the two platforms.
 
 ## Features
 
